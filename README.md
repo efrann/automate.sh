@@ -5,4 +5,4 @@ While running:
 sh automate.sh domain.com
 
 - 👋 twitter : @bay_efran
-- 🌱 Meidum : @bayefran
+- 🌱 Medium : @bayefran
