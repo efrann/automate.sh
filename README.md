@@ -4,5 +4,3 @@ Before run the script, you need to specify your directories, somehow you may nee
 While running:
 sh automate.sh domain.com
 
-- 👋 twitter : @bay_efran
-- 🌱 Medium : @bayefran
